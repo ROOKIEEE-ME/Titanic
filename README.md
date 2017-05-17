@@ -9,12 +9,6 @@
 - [scikit-learn](http://scikit-learn.org/stable/)
   ​
 
-你还需要安装和运行 [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html#optional-for-experienced-python-developers-installing-jupyter-with-pip)。
-
-
-### 代码
-​
-事例代码在 `titanic_survival_exploration_cn.ipynb` 文件中，辅助代码在 `titanic_visualizations.py` 文件中。尽管已经提供了一些代码帮助你上手，你还是需要补充些代码使得项目要求的功能能够成功实现。
 
 ### 数据
 ​
